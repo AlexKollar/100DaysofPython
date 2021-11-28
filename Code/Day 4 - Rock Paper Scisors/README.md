@@ -3,9 +3,6 @@
 - Randomness in code
 - Importing / import as
 - Modules
-
-#### Capstone Project: 
-
 #### Side Projects:
 ##### Heads or Tails
 - Using Pseudo Random Number Generation
