@@ -18,5 +18,6 @@ vertical = int(position[1])
 #Black Magic
 selectedRow = map[vertical - 1]
 selectedRow[horizontal -1] = "❌"
+#selectedRow[horizontal -1] = "X" #For the CLI
 #Print the output and the new map with the treasure marked on it.
 print(f"{row1}\n{row2}\n{row3}")
