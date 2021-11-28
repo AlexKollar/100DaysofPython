@@ -13,3 +13,7 @@
 - Output what side the coin landed on.
 ##### Love Calculator 2.0
 - This was just my own doing now that I have RNG on my Side.
+##### Treasure Map
+- Nested lists
+- Use of Emoji
+- building a gride based text map.

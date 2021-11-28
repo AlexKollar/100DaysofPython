@@ -36,6 +36,4 @@ elif (loveScore > 85):
 else:
   print("You broke it... Good Job Try again.")
 
-print("\n\nDISCLAIMER: \nKeep in mind this program is for entertainment only! \nDon't take it seriously.\n- Cy")  
-  
-    
+print("\n\nDISCLAIMER: \nKeep in mind this program is for entertainment only! \nDon't take it seriously.\n- Cy")
