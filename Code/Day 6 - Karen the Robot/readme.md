@@ -20,15 +20,18 @@ Pictures>
 -> Wallpapers
 --> Nothing here
 ---> NO really
-----> Nothing here
------> Stoooopppp
 ------> .rule34
 ------> I told you. Nothing is here..  
 If this looks confusion its an old meme about hiding your rule34.  
 But if you replicated this in a linux system it would actually hide the rule34 folder due to the '.' in front.  
 I'll let you figure out how to get it back...  
-```
->! Hint: Ctrl+h (Linux / Mac) | View: Show Hidden (Windows Explorer UI)
-- While loops
-- Code Blocks
+```  
+#### While loops
+While loops keep running till told otherwise. 
+- Good for menus in CLI programs IE: [cryptex](https://github.com/CythesOut/Cryptex)
+
+#### Code Blocks  
+
+This whole section was done in reeborgs world and not here on Github. So read the notes. 
+
 
