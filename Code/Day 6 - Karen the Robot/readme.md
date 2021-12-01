@@ -24,9 +24,11 @@ Pictures>
 -----> Stoooopppp
 ------> .rule34
 ------> I told you. Nothing is here..  
-If this looks confusion its an old meme about hiding your rule34. But if you replicated this in a linux system it would actually hide the rule34 folder due to the '.' in front. I'll let you figure out how to get it back...  
->! Ctrl+h (Linux) 
+If this looks confusion its an old meme about hiding your rule34.  
+But if you replicated this in a linux system it would actually hide the rule34 folder due to the '.' in front.  
+I'll let you figure out how to get it back...  
 ```
+>! Hint: Ctrl+h (Linux / Mac) | View: Show Hidden (Windows Explorer UI)
 - While loops
 - Code Blocks
 
