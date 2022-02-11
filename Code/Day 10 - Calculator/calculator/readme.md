@@ -1,4 +1,3 @@
-logo= '''
  __________
 | ________ |   ______      __           __      __   
 || cythes ||  / ____/___ _/ /______  __/ /___ _/ /_____  _____
@@ -8,5 +7,6 @@ logo= '''
 |[4|5|6][x]|
 |[1|2|3][%]| For all your basic calculation needs and wants!
 |[.|O|:][=]|
-"----------"               
-'''
+"----------"   
+
+Yeah the title basically says it all. 

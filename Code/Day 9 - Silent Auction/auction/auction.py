@@ -25,5 +25,5 @@ while not biddingFinished:
         biddingFinished = True
         findHighestBidder(bids)
     elif shouldContinue == "Yes":
-        os.system("clear||cls")
+        os.system("clear")
 
